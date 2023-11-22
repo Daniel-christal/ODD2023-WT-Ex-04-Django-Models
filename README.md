@@ -2,7 +2,6 @@
 # STUDENT DETAILS :
 Name : C.DANIEL
 Department : AIML
-
 Reference N0 : 23002519
 # AIM : 
 Display user's details using template-view-model in django framework.
