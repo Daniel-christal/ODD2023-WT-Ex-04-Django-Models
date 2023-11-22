@@ -1,8 +1,6 @@
 # Ex-04-Django-Models
 # STUDENT DETAILS :
-Name : 
-
-
+Name : C.DANIEL
 Department : AIML
 
 Reference N0 : 23002519
@@ -119,6 +117,8 @@ In the admin/ page you can view the models created
 And  in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT : 
+![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-04-Django-Models/assets/145742847/39a19008-ef49-44f5-8f52-638b5601fbae)
+
 
 # RESULT : 
 User Profile displayed successfully using django framework.
